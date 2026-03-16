@@ -18,3 +18,6 @@ Experimental results on the CIC-IDS2017 benchmark dataset demonstrate the superi
 By continuously altering the defensive configuration, the MTD strategy creates a dynamic and moving target, providing a proactive and intelligent solution for next-generation intrusion detection systems in modern cybersecurity environments.
 
 Model:
+<p align="center">
+<img src="model/Model MORPH-IDS.png" width="800">
+</p>
