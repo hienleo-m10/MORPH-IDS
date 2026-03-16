@@ -1,8 +1,10 @@
 MORPH-IDS
-Title
+
+Title:
 MORPH-IDS: A Context-Driven Multi-Agent Reinforcement Learning Framework for Drift-Aware Moving Target Defense in Adversarial-Robust Intrusion Detection
 
-Abstract
+Abstract:
+
 With the explosive growth in the scale and complexity of network infrastructures, cloud computing, and IoT, the cyber-attack surface has expanded significantly, posing major challenges for Network Intrusion Detection Systems (NIDS). Although NIDS play a critical role in cybersecurity, traditional NIDS based on static Machine Learning (ML) models are revealing serious weaknesses in non-stationary environments. Specifically, their reliance on fixed training data makes them vulnerable to concept drift and sophisticated adversarial attacks, where attackers deliberately exploit blind spots in the models or perform data poisoning.
 
 To address these pressing challenges, this thesis proposes a novel adaptive defense framework that integrates Moving Target Defense (MTD) with Multi-Agent Reinforcement Learning (RL). The system is modeled as a co-evolutionary game between a Defender agent—responsible for optimizing the selection and configuration of models from a pool of defensive models—and an Attacker agent that continuously learns to generate perturbations to evade detection. The architecture is built upon a Dueling Double Deep Q-Network (DQN) combined with a Boltzmann exploration strategy, enabling the defense posture to continuously change and remain unpredictable.
