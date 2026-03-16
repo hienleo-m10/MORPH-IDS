@@ -19,5 +19,5 @@ By continuously altering the defensive configuration, the MTD strategy creates a
 
 Model:
 <p align="center">
-<img src="model/Model MORPH-IDS.png" width="800">
+<img src="model/Model_MORPH-IDS.png" width="800">
 </p>
